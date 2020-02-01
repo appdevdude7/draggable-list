@@ -42,4 +42,4 @@ function DraggableList({ items }) {
   )
 }
 
-render(<DraggableList items={'Lorem ipsum dolor sit'.split(' ')} />, document.getElementById('root'))
+render(<DraggableList items={'First Second Third Fourth Fifth'.split(' ')} />, document.getElementById('root'))
